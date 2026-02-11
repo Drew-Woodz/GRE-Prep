@@ -38,23 +38,23 @@ This document is intentionally basic, incomplete and opinionated. It prioritizes
 
 # Table of Contents:
 
-## 1. Integers and Number Properties
+## 1. [Integers and Number Properties](#1-integers-and-number-properties)
 
-- Divisibility rules
+- [Divisibility Rules](#divisibility-rules)
 
-- Prime numbers
+- [Prime numbers](#prime-numbers)
 
-- Factors and multiples
+- [Factors and multiples](#factors-and-multiples)
 
-- Even/odd behavior
+- [Even/odd behavior](#evenodd-behavior)
 
-- Remainders
+- [Remainders](#remainders)
 
-- Least common multiple (LCM)
+- [Least common multiple (LCM)](#least-common-multiple-lcm)
 
-- Greatest common divisor (GCD)
+- [Greatest common divisor (GCD)](#greatest-common-divisor-gcd)
 
-- Units digit patterns
+- [Units digit patterns](#units-digit-patterns)
 
 Why first:
 
