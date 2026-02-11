@@ -47,7 +47,7 @@ How many positive factors does 180 have?
 
 ---
 
-Even/Odd Behavior
+## Even/Odd Behavior
 
 If $𝑥$ and $𝑦$ are odd integers, which of the following must be even?
 
@@ -63,7 +63,7 @@ E) $𝑥^(2) − 𝑦^(2)$
 
 ---
 
-Remainders
+## Remainders
 
 When an integer $𝑛$ is divided by $7$, the remainder is $4$.
 
@@ -73,19 +73,19 @@ $5𝑛$ is divided by $7$?
 
 ---
 
-LCM
+## LCM
 
 What is the least common multiple of $20$ and $30$?
 
 ---
 
-GCD
+## GCD
 
-What is the greatest common divisor of 96 and 144?
+What is the greatest common divisor of $96$ and $144$?
 
 ---
 
-Drill 8
+## Unit digits
 
 What is the units digit of 
 $3^(57)$?
