@@ -9,86 +9,167 @@ No solutions are shown immediately. Work the problem before scrolling.
 
 # Section 1 – Integers and Number Properties
 
+---
+
 ## Divisibility Rules
 
-Which of the following integers is divisible by 9?
+---
 
-A) 7,218
+1. Which of the following integers is divisible by 9?
 
-B) 7,224
+    A) 7,218
 
-C) 7,227
+    B) 7,224
 
-D) 7,230
+    C) 7,227
 
-E) 7,234
+    D) 7,230
+
+    E) 7,234
+
 
 ---
 
 ## Prime Numbers
 
-If $𝑝$ is a prime number greater than $3$, which of the following must be true?
+---
 
-A) $𝑝$ is odd
+1. If $𝑝$ is a prime number greater than $3$, which of the following must be true?
 
-B) $𝑝 + 2$ is prime
+    A) $𝑝$ is odd
 
-C) $𝑝 − 2$ is prime
+    B) $𝑝 + 2$ is prime
 
-D) $𝑝^(2)$ is prime
+    C) $𝑝 − 2$ is prime
 
-E) $𝑝$ is divisible by $3$
+    D) $𝑝^(2)$ is prime
+
+    E) $𝑝$ is divisible by $3$
 
 ---
 
 ## Factors and Multiples
 
-How many positive factors does 180 have?
+---
+
+1. How many positive factors does 180 have?
 
 ---
 
 ## Even/Odd Behavior
 
-If $𝑥$ and $𝑦$ are odd integers, which of the following must be even?
+---
 
-A) $𝑥 + 𝑦$
+1. If $𝑥$ and $𝑦$ are odd integers, which of the following must be even?
 
-B) $𝑥 − 𝑦$
+    A) $𝑥 + 𝑦$
 
-C) $𝑥𝑦$
+    B) $𝑥 − 𝑦$
 
-D) $𝑥^{2} + 𝑦^{2}$
+    C) $𝑥𝑦$
 
-E) $𝑥^{2} − 𝑦^{2}$
+    D) $𝑥^{2} + 𝑦^{2}$
+
+    E) $𝑥^{2} − 𝑦^{2}$
 
 ---
 
 ## Remainders
 
-When an integer $𝑛$ is divided by $7$, the remainder is $4$.
+---
 
-What is the remainder when 
-
-$5𝑛$ is divided by $7$?
+1. When an integer $𝑛$ is divided by $7$, the remainder is $4$. What is the remainder when $5𝑛$ is divided by $7$?
 
 ---
 
 ## LCM
 
-What is the least common multiple of $20$ and $30$?
+---
+
+1. What is the least common multiple of $20$ and $30$?
 
 ---
 
 ## GCD
 
-What is the greatest common divisor of $96$ and $144$?
+---
+
+1. What is the greatest common divisor of $96$ and $144$?
 
 ---
 
 ## Unit digits
 
-What is the units digit of 
-$3^{57}$?
+---
+
+1. What is the units digit of $3^{57}$?
 
 ---
 
+# Section 2 – Fractions, Ratios, and Percentages
+
+---
+
+## Fraction Simplification
+
+---
+
+1. Simplify:
+
+$$\frac{210}{294}$$
+
+---
+
+## Ratio Translation to Equations
+
+---
+
+1. The ratio of $a$ to $b$ is $4:7$. If $a - b = -9$, what is the value of $a$?
+
+---
+
+## Percent Increase / Decrease
+
+---
+
+1. A population of $800$ decreases by $12%$. What is the new population?
+
+---
+
+## Percent Change vs Percent Of
+
+---
+
+1. A price decreases from $120$ to $96$. By what percent did it decrease?
+
+---
+
+## Weighted Averages
+
+---
+
+1. A group of $5$ numbers has an average of $12$.
+
+    Another group of $15$ numbers has an average of $18$.
+
+    What is the average of all $20$ numbers?
+
+---
+
+## Converting Between Forms
+
+---
+
+1. Which is smallest?
+
+    A) $\frac{5}{12}$
+
+    B) $0.42$
+
+    C) $41%$
+
+    D) $\frac{9}{20}$
+
+    E) $0.405$
+
+---

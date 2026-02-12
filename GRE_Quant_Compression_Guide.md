@@ -795,6 +795,8 @@ $$\frac{2}{3}$$
 
 Factor first. Cancel second. Divide last.
 
+**[Go to Fraction simplification Drills](Drills.md#fraction-simplification)**
+
 ---
 
 ### Ratio translation to equations
@@ -856,6 +858,8 @@ Answer: $15$
 **Takeaway**
 
 Ratios describe proportional structure. Always assign a multiplier.
+
+**[Go to Ratio translation to equations Drills](Drills.md#ratio-translation-to-equations )**
 
 ---
 
@@ -925,6 +929,8 @@ Same result. Faster for round numbers.
 
 Percent change is multiplication, not addition.
 
+**[Go to Percent increase / decrease Drills](Drills.md#percent-increase--decrease)**
+
 ---
 
 ### Percent change vs percent of
@@ -992,6 +998,10 @@ Different question. Different structure.
 
 Percent change compares two numbers. Percent of applies to one number.
 
+**[Go to Percent change vs precent of Drills](Drills.md#percent-change-vs-percent-of)**
+
+---
+
 ### Weighted averages (informal)
 
 **What the GRE is really testing:**
@@ -1053,6 +1063,8 @@ $$86.\overline{6}$$
 **Takeaway**
 
 When combining averages, return to totals first.
+
+**[Go to Weighted Averages (informal) Drills](Drills.md#weighted-averages)**
 
 ---
 
@@ -1130,11 +1142,16 @@ Forgetting common fraction equivalents (e.g., $1/8 = 0.125$)
 
 Convert to the format that makes comparison easiest. Do not mix forms mid-calculation.
 
+**[Go to Converting between fraction, decimals, and percents Drills](Drills.md#converting-between-forms)**
+
 ---
 
 # Section 3
 
 ## 3. Algebraic Manipulation (Linear Focus)
+
+---
+
 
 ### Solving linear equations
 
