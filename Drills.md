@@ -57,9 +57,9 @@ B) $𝑥 − 𝑦$
 
 C) $𝑥𝑦$
 
-D) $𝑥^(2) + 𝑦^(2)$
+D) $𝑥^{2} + 𝑦^{2}$
 
-E) $𝑥^(2) − 𝑦^(2)$
+E) $𝑥^{2} − 𝑦^{2}$
 
 ---
 
@@ -88,7 +88,7 @@ What is the greatest common divisor of $96$ and $144$?
 ## Unit digits
 
 What is the units digit of 
-$3^(57)$?
+$3^{57}$?
 
 ---
 

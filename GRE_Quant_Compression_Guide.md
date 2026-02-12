@@ -68,131 +68,131 @@ This shows up everywhere, including disguised inside word problems and algebra. 
 
 - [Percent increase/decrease](#percent-increase--decrease)
 
-- Percent change vs percent of
+- [Percent change vs percent of](#percent-change-vs-percent-of)
 
-- Weighted averages (informal)
+- [Weighted averages (informal)](#weighted-averages-informal)
 
-- Converting between fractions, decimals, and percents
+- [Converting between fractions, decimals, and percents](#converting-between-fractions-decimals-and-percents)
 
 Why:
 
 High frequency, low difficulty, high trap density.
 
-## 3. Algebraic Manipulation (Linear Focus)
+## 3. [Algebraic Manipulation (Linear Focus)](#3-algebraic-manipulation-linear-focus)
 
-- Solving linear equations
+- [Solving linear equations](#solving-linear-equations)
 
-- Rearranging formulas
+- [Rearranging formulas](#rearranging-formulas)
 
-- Substitution
+- [Substitution](#substitution)
 
-- Systems of equations (simple)
+- [Systems of equations (simple)](#systems-of-equations-simple)
 
-- Translating words to algebra
+- [Translating words to algebra](#translating-words-to-algebra)
 
 Note:
 
 This is about manipulation, not theory. Speed comes from comfort moving symbols.
 
-## 4. Word Problems (Rates, Work, Mixtures)
+## 4. [Word Problems (Rates, Work, Mixtures)](#4-word-problems-rates-work-mixtures)
 
-- Distance = rate × time
+- [Distance = rate × time](#distance--rate--time)
 
-- Combined work problems
+- [Combined work problems](#combined-work-problems)
 
-- Average speed
+- [Average speed](#average-speed)
 
-- Mixture problems
+- [Mixture problems](#mixture-problems)
 
-- Translating verbose language into equations
+- [Translating verbose language into equations](#translating-verbose-language-into-equations)
 
 Why separate from algebra:
 
 These test interpretation first, algebra second. Recognition matters more than math.
 
-## 5. Exponents and Roots
+## 5. [Exponents and Roots](#5-exponents-and-roots)
 
-- Laws of exponents
+- [Laws of exponents](#laws-of-exponents)
 
-- Square roots and cubes
+- [Square roots and cubes](#square-roots-and-cubes)
 
-- Negative and fractional exponents
+- [Negative and fractional exponents](#negative-and-fractional-exponents)
 
-- Simplifying expressions
+- [Simplifying expressions](#simplifying-expressions)
 
-- Growth/decay intuition (light)
+- [Growth/decay intuition (light)](#growthdecay-intuition-light)
 
 Frequency:
 
 Moderate, but very predictable.
 
-## 6. Quadratics and Polynomials (Minimalist)
+## 6. [Quadratics and Polynomials (Minimalist)](#6-quadratics-and-polynomials-minimalist)
 
-- Factoring quadratics
+- [Factoring quadratics](#factoring-quadratics)
 
-- Solving simple quadratics
+- [Solving simple quadratics](#solving-simple-quadratics)
 
-- Recognizing perfect squares
+- [Recognizing perfect squares](#recognizing-perfect-squares)
 
-- Plugging values instead of solving
+- [Plugging values instead of solving](#plugging-values-instead-of-solving)
 
 Important:
 
 The GRE avoids ugly quadratics. If it looks ugly, you’re doing it wrong.
 
-## 7. Geometry (High-Yield Only)
+## 7. [Geometry (High-Yield Only)](#7-geometry-high-yield-only)
 
-- Lines and angles
+- [Lines and angles](#lines-and-angles)
 
-- Triangles (especially right triangles)
+- [Triangles (especially right triangles)](#triangles-especially-right-triangles)
 
-- Circles (area, circumference)
+- [Circles (area, circumference)](#circles-area-circumference)
 
-- Coordinate geometry basics
+- [Coordinate geometry basics](#coordinate-geometry-basics)
 
-- Area vs perimeter traps
+- [Area vs perimeter traps](#area-vs-perimeter-traps)
 
 Rule:
 
 Memorize formulas. Do not derive anything on test day.
 
-## 8. Data Interpretation
+## 8. [Data Interpretation](#8-data-interpretation)
 
-- Reading tables and charts
+- [Reading tables and charts](#reading-tables-and-charts)
 
-- Percent and ratio comparisons
+- [Percent and ratio comparisons](#percent-and-ratio-comparisons)
 
-- Estimation
+- [Estimation](#estimation)
 
-- Multi-step arithmetic under time pressure
+- [Multi-step arithmetic under time pressure](#multi-step-arithmetic-under-time-pressure)
 
 Key skill:
 
 Not math. Selective reading.
 
-## 9. Probability and Counting (Basic)
+## 9. [Probability and Counting (Basic)](#9-probability-and-counting-basic)
 
-- Simple probability
+- [Simple probability](#simple-probability)
 
-- Counting with cases
+- [Counting with cases](#counting-with-cases)
 
-- “At least one” logic
+- [“At least one” logic](#at-least-one-logic)
 
-- Complement rule
+- [Complement rule](#complement-rule)
 
 Bounded scope:
 
 No advanced combinatorics. No clever tricks required.
 
-## 10. Quantitative Comparison Strategy
+## [10. Quantitative Comparison Strategy](#10-quantitative-comparison-strategy)
 
-- Comparing expressions without full computation
+- [Comparing expressions without full computation](#comparing-expressions-without-full-computation)
 
-- Plugging numbers
+- [Plugging numbers](#plugging-numbers)
 
-- Boundary testing
+- [Boundary testing](#boundary-testing)
 
-- Recognizing when D is correct
+- [Recognizing when D is correct](#recognizing-when-d-is-correct)
 
 Why its own section:
 
@@ -209,7 +209,7 @@ The primary challenge in this category is not difficulty, but recall speed. Most
 
 ### Divisibility rules
 
-**What the GRE is really testing**
+**What the GRE is really testing:**
 
 Whether you remember quick divisibility checks and can avoid long division or factorization.
 
@@ -270,7 +270,7 @@ When divisibility is mentioned, apply rules first. Division is a last resort.
 
 ### Prime numbers
 
-**What the GRE is really testing**
+**What the GRE is really testing:**
 
 Whether you understand what primes are, how they behave in factorization, and when not to treat $1$ as a prime.
 
@@ -338,7 +338,7 @@ Prime problems are about structure, not computation. Factor only as far as neede
 
 ### Factors and multiples
 
-**What the GRE is really testing**
+**What the GRE is really testing:**
 
 Whether you understand the relationship between numbers, not whether you can list factors exhaustively. 
 
@@ -404,7 +404,7 @@ When asked for the number of factors, factor once and apply the exponent rule. N
 
 ### Even/odd behavior
 
-**What the GRE is really testing**
+**What the GRE is really testing:**
 
 Whether you understand how parity behaves under basic operations. These problems are not about numbers, they’re about patterns. 
 
@@ -484,7 +484,7 @@ Parity problems are rule-based. Apply the rules once and move on. Plugging in va
 
 ### Remainders
 
-**What the GRE is really testing**
+**What the GRE is really testing:**
 
 Whether you understand division with remainders conceptually, not whether you can perform long division. The GRE loves remainder problems because they expose people who compute instead of reasoning.
 
@@ -493,8 +493,6 @@ Most of these reduce to:
 “What happens when I rewrite this in the form: $divisor × quotient + remainder$?”
 
 **Fast recognition cues**
-
-Fast recognition cues
 
 - “$remainder$”
 
@@ -557,7 +555,7 @@ Then manipulate that expression. Do not divide blindly.
 
 ### Least common multiple (LCM)
 
-**What the GRE is really testing**
+**What the GRE is really testing:**
 
 Whether you understand how multiples align, not whether you can list them. LCM questions reward prime-factor structure and punish trial-and-error listing.
 
@@ -584,6 +582,7 @@ What is the least common multiple of $18$ and $24$?
 Prime factorize both numbers:
 
 $18 = 2 × 3^2$
+
 $24 = 2^3 × 3$
 
 For the LCM:
@@ -591,7 +590,9 @@ For the LCM:
 Take the highest power of each prime
 
 LCM $= 2^3 × 3^2$
+
 $= 8 × 9$
+
 $= 72$
 
 Answer: $72$
@@ -614,7 +615,7 @@ For LCM, take every prime involved at its highest power. Never list multiples.
 
 ### Greatest common divisor (GCD)
 
-**What the GRE is really testing**
+**What the GRE is really testing:**
 
 Whether you can identify shared structure between numbers. GCD problems are the mirror image of LCM problems and should feel mechanically similar.
 
@@ -641,6 +642,7 @@ What is the greatest common divisor of $84$ and $126$?
 Prime factorize:
 
 $84 = 2^2 × 3 × 7$
+
 $126 = 2 × 3² × 7$
 
 For the GCD:
@@ -670,7 +672,7 @@ For GCD, take only shared primes at their lowest powers.
 
 ### Units digit patterns
 
-**What the GRE is really testing**
+**What the GRE is really testing:**
 
 Whether you recognize repeating cycles instead of computing large powers. These problems are pure pattern recognition.
 
@@ -689,19 +691,19 @@ If the exponent looks large, do not compute.
 **Canonical example problem**
 
 Example:
-What is the units digit of 7^103?
+What is the units digit of $7^{103}$?
 
 **Fast solution path**
 
 List the repeating pattern of units digits for powers of 7:
 
-$7^1 → 7$
+$7^{1} → 7$
 
-$7^2 → 9$
+$7^{2} → 9$
 
-$7^3 → 3$
+$7^{3} → 3$
 
-$7^4 → 1$
+$7^{4} → 1$
 
 Pattern length $= 4$
 
@@ -709,7 +711,7 @@ Now reduce the exponent modulo $4$:
 
 $103 ÷ 4$ leaves a remainder of $3$
 
-So the units digit matches $7^3$:
+So the units digit matches $7^{3}$:
 
 $3$
 
@@ -732,13 +734,14 @@ Units digit problems are cycle problems. Find the cycle, reduce the exponent, st
 ---
 
 # Section 2
+
 ## 2. Fractions, Ratios, and Percentages
 
 ---
 
 ### Fraction simplification
 
-**What the GRE is really testing**
+**What the GRE is really testing:**
 
 Whether you can recognize common factors quickly and reduce expressions without overworking the arithmetic. These problems are about structural cancellation, not division.
 
@@ -769,6 +772,7 @@ $$\frac{84}{126}$$
 Factor both numbers:
 
 $$84 = 2^2 \times 3 \times 7$$
+
 $$126 = 2 \times 3^2 \times 7$$
 
 Cancel common factors:
@@ -795,7 +799,7 @@ Factor first. Cancel second. Divide last.
 
 ### Ratio translation to equations
 
-**What the GRE is really testing**
+**What the GRE is really testing:**
 
 Whether you can correctly translate ratios into algebra. Most mistakes come from misplacing variables or misreading order.
 
@@ -816,6 +820,7 @@ If a ratio is described in words, slow down before writing the equation.
 Example:
 
 The ratio of $x$ to $y$ is $3:5$.
+
 If $x + y = 40$, what is the value of $x$?
 
 **Fast solution path**
@@ -823,12 +828,15 @@ If $x + y = 40$, what is the value of $x$?
 Translate the ratio correctly:
 
 $$𝑥 = 3𝑘$$
+
 $$𝑦 = 5𝑘$$
 
 Now use the sum:
 
 $$3𝑘 + 5𝑘 = 40$$
+
 $$8𝑘 = 40$$
+
 $$𝑘 = 5$$
 
 Therefore:
@@ -853,7 +861,7 @@ Ratios describe proportional structure. Always assign a multiplier.
 
 ### Percent increase / decrease
 
-**What the GRE is really testing**
+**What the GRE is really testing:**
 
 Whether you understand percent change as a multiplicative adjustment, not additive intuition. These questions punish sloppy thinking.
 
@@ -878,6 +886,7 @@ If percent change appears, think multiplication.
 Example:
 
 A price of $200 is increased by $15%$.
+
 What is the new price?
 
 **Fast solution path**
@@ -895,8 +904,11 @@ Answer: $230$
 **Alternative mental method**
 
 $10%$ of $200$ is $20$
+
 $5%$ is $10$
+
 Total increase is $30$
+
 $200 + 30 = 230$
 
 Same result. Faster for round numbers.
@@ -912,3 +924,328 @@ Same result. Faster for round numbers.
 **Takeaway**
 
 Percent change is multiplication, not addition.
+
+---
+
+### Percent change vs percent of
+
+**What the GRE is really testing:**
+
+Whether you can distinguish between finding a percentage of a number and finding the percent change between two numbers. These are conceptually different, and the GRE exploits that confusion.
+
+**Fast recognition cues**
+
+- “what percent of”
+
+- “by what percent did”
+
+- “percent change”
+
+- “increase from ___ to ___”
+
+- “decrease from ___ to ___”
+
+If two numbers are being compared, think percent change formula.
+
+If only one number is given and a percentage is requested, think percent of.
+
+**Canonical example problem**
+
+Example:
+
+A quantity increases from $50$ to $65$.
+By what percent did it increase?
+
+**Fast solution path**
+
+Percent change formula:
+
+$$\frac{new - original}{original}$$
+
+So:
+
+$$\frac{65 - 50}{50} = \frac{15}{50} = 0.3$$
+
+Convert to percent:
+
+$$0.3 = 30%$$
+
+Answer: $30%$
+
+**Contrast example (percent of)**
+
+What is $30%$ of $50$?
+
+$$0.3 \times 50 = 15$$
+
+Different question. Different structure.
+
+**Trap note**
+
+- Dividing by the new value instead of the original
+
+- Confusing “percent of” with “percent change”
+
+- Forgetting that percent change is relative to the starting value
+
+**Takeaway**
+
+Percent change compares two numbers. Percent of applies to one number.
+
+### Weighted averages (informal)
+
+**What the GRE is really testing:**
+
+Whether you understand that averages must account for quantity. Most mistakes come from averaging averages.
+
+**Fast recognition cues**
+
+- “average of”
+
+- groups of different sizes
+
+- combining two averages
+
+- mixture or grade problems
+
+If group sizes differ, a simple average is wrong.
+
+**Canonical example problem**
+
+Example:
+
+A class of 10 students has an average score of $80$.
+Another class of 20 students has an average score of $90$.
+What is the average score of all 30 students?
+
+**Fast solution path**
+
+Convert averages back to totals.
+
+First class total:
+
+$$10×80=800$$
+
+Second class total:
+
+$$20×90=1800$$
+
+Combined total:
+
+$$800+1800=2600$$
+
+Divide by total students:
+
+$$\frac{2600}{30} = 86.\overline{6}$$
+
+Answer:
+
+$$86.\overline{6}$$
+
+**Trap note**
+
+- Taking $(80 + 90)/2 = 85$ (incorrect)
+
+- Forgetting to weight by group size
+
+- Rounding too early
+
+**Takeaway**
+
+When combining averages, return to totals first.
+
+---
+
+### Converting between fractions, decimals, and percents
+
+**What the GRE is really testing:**
+
+Whether you can move fluidly between representations without slowing down. This is foundational for Data Interpretation and percent problems.
+
+**Fast recognition cues**
+
+mixed representations in answer choices
+
+comparison questions
+
+repeating decimals
+
+awkward fractions like $\frac{3}{8}$ or $\frac{7}{12}$
+
+If formats differ, convert to the simplest common form.
+
+**Canonical example problem**
+
+Example:
+
+Which is greatest?
+
+A) $\frac{3}{8}$
+
+B) $0.36$
+
+C) $35\%$
+
+D) $\frac{7}{20}$
+
+E) $0.34$
+
+**Fast solution path**
+
+Convert everything to decimals.
+
+$$\frac{3}{8} = 0.375$$
+
+$$35\% = 0.35$$
+
+$$\frac{7}{20} = 0.35$$
+
+So compare:
+
+A) $0.375$
+
+B) $0.36$
+
+C) $0.35$
+
+D) $0.35$
+
+E) $0.34$
+
+Largest is:
+
+$$0.375$$
+
+Answer: A
+
+**Trap note**
+
+Converting everything when only one conversion is needed
+
+Mishandling percent-to-decimal conversion
+
+Forgetting common fraction equivalents (e.g., $1/8 = 0.125$)
+
+**Takeaway**
+
+Convert to the format that makes comparison easiest. Do not mix forms mid-calculation.
+
+---
+
+# Section 3
+
+## 3. Algebraic Manipulation (Linear Focus)
+
+### Solving linear equations
+
+### Rearranging formulas
+
+### Substitution
+
+### Systems of equations (simple)
+
+### Translating words to algebra
+
+---
+
+# Section 4
+
+## 4. Word Problems (Rates, Work, Mixtures)
+
+### Distance = rate × time
+
+### Combined work problems
+
+### Average speed
+
+### Mixture problems
+
+### Translating verbose language into equations
+
+---
+
+# Section 5
+
+## 5. Exponents and Roots
+
+### Laws of exponents
+
+### Square roots and cubes
+
+### Negative and fractional exponents
+
+### Simplifying expressions
+
+### Growth/decay intuition (light)
+
+---
+
+# Section 6
+
+## 6. Quadratics and Polynomials (Minimalist)
+
+### Factoring quadratics
+
+### Solving simple quadratics
+
+### Recognizing perfect squares
+
+### Plugging values instead of solving
+
+---
+
+# Section 7
+
+## 7. Geometry (High-Yield Only)
+
+### Lines and angles
+
+### Triangles (especially right triangles)
+
+### Circles (area, circumference)
+
+### Coordinate geometry basics
+
+### Area vs perimeter traps
+
+---
+
+# Section 8
+
+## 8. Data Interpretation
+
+### Reading tables and charts
+
+### Percent and ratio comparisons
+
+### Estimation
+
+### Multi-step arithmetic under time pressure
+
+---
+
+# Section 9
+
+## 9. Probability and Counting (Basic)
+
+### Simple probability
+
+### Counting with cases
+
+### “At least one” logic
+
+### Complement rule
+
+---
+
+# Section 10
+
+## 10. Quantitative Comparison Strategy
+
+### Comparing expressions without full computation
+
+### Plugging numbers
+
+### Boundary testing
+
+### Recognizing when D is correct
