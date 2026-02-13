@@ -346,15 +346,15 @@ These problems reward structural thinking and punish brute force.
 
 **Fast recognition cues**
 
-“factor of”
+- “factor of”
 
-“multiple of”
+- “multiple of”
 
-“divides evenly”
+- “divides evenly”
 
-“how many positive divisors”
+- “how many positive divisors”
 
-“greatest / least possible value”
+- “greatest / least possible value”
 
 If you see “how many” combined with factors, pause before computing.
 
@@ -388,11 +388,11 @@ Answer: $12$
 
 **Trap note**
 
-Listing factors manually (slow and error-prone)
+- Listing factors manually (slow and error-prone)
 
-Forgetting to include $1$ and the number itself
+- Forgetting to include $1$ and the number itself
 
-Miscounting repeated prime powers
+- Miscounting repeated prime powers
 
 **Takeaway**
 
@@ -412,15 +412,15 @@ The GRE expects you to reason symbolically instead of plugging in values blindly
 
 **Fast recognition cues**
 
-“$even$”
+- “$even$”
 
-“$odd$”
+- “$odd$”
 
-“$integer$”
+- “$integer$”
 
-“$sum$ / $difference$ / $product$”
+- “$sum$ / $difference$ / $product$”
 
-Quantitative Comparison questions involving parity
+- Quantitative Comparison questions involving parity
 
 If variables are involved and parity is mentioned, stop thinking numerically.
 
@@ -641,15 +641,15 @@ What is the greatest common divisor of $84$ and $126$?
 
 Prime factorize:
 
-$84 = 2^2 × 3 × 7$
+$84 = 2^{2} × 3 × 7$
 
-$126 = 2 × 3² × 7$
+$126 = 2 × 3^{2} × 7$
 
 For the GCD:
 
 Take the lowest power of each shared prime
 
-GCD $= 2^1 × 3^1 × 7^1$
+GCD $= 2^{1} × 3^{1} × 7^{1}$
 $= 42$
 
 Answer: $42$
@@ -859,7 +859,7 @@ Answer: $15$
 
 Ratios describe proportional structure. Always assign a multiplier.
 
-**[Go to Ratio translation to equations Drills](Drills.md#ratio-translation-to-equations )**
+**[Go to Ratio translation to equations Drills](Drills.md#ratio-translation-to-equations)**
 
 ---
 
@@ -998,7 +998,7 @@ Different question. Different structure.
 
 Percent change compares two numbers. Percent of applies to one number.
 
-**[Go to Percent change vs precent of Drills](Drills.md#percent-change-vs-percent-of)**
+**[Go to Percent change vs percent of Drills](Drills.md#percent-change-vs-percent-of)**
 
 ---
 
@@ -1076,15 +1076,15 @@ Whether you can move fluidly between representations without slowing down. This 
 
 **Fast recognition cues**
 
-mixed representations in answer choices
+- mixed representations in answer choices
 
-comparison questions
+- comparison questions
 
-repeating decimals
+- repeating decimals
 
-awkward fractions like $\frac{3}{8}$ or $\frac{7}{12}$
+- awkward fractions like $\frac{3}{8}$ or $\frac{7}{12}$
 
-If formats differ, convert to the simplest common form.
+- If formats differ, convert to the simplest common form.
 
 **Canonical example problem**
 
@@ -1132,11 +1132,11 @@ Answer: A
 
 **Trap note**
 
-Converting everything when only one conversion is needed
+- Converting everything when only one conversion is needed
 
-Mishandling percent-to-decimal conversion
+- Mishandling percent-to-decimal conversion
 
-Forgetting common fraction equivalents (e.g., $1/8 = 0.125$)
+- Forgetting common fraction equivalents (e.g., $1/8 = 0.125$)
 
 **Takeaway**
 
@@ -1152,16 +1152,303 @@ Convert to the format that makes comparison easiest. Do not mix forms mid-calcul
 
 ---
 
-
 ### Solving linear equations
+
+**What the GRE is really testing:**
+
+Whether you can isolate variables cleanly without introducing arithmetic mistakes. The math is simple; errors come from sloppiness and rushed distribution.
+
+**Fast recognition cues**
+
+- “solve for”
+
+- variable on both sides
+
+- fractions in equations
+
+- parentheses
+
+- answer choices that are numeric
+
+If fractions appear, consider clearing denominators early.
+
+**Canonical example problem**
+
+Example:
+
+Solve for $x$:
+
+$$3x−7=2x+9$$
+
+**Fast solution path**
+
+Move variables to one side:
+
+$$3x−2x=9+7$$
+
+$$x=16$$
+
+Answer:
+
+$$x=16$$
+
+**Slightly harder variation**
+
+Solve:​
+
+$$\frac{x}{3}+5=9$$
+
+Clear denominator first:
+
+$$x+15=27$$
+
+$$x=12$$
+
+**Trap note**
+
+- Distributing incorrectly
+
+- Forgetting to move entire terms
+
+- Arithmetic errors under time pressure
+
+**Takeaway**
+
+Clear fractions early. Combine like terms carefully. Move cleanly, not fast.
+
+**[Go to Solving linear equations Drills](Drills.md#solving-linear-equations)**
+
+---
 
 ### Rearranging formulas
 
+**What the GRE is really testing:**
+
+Whether you can isolate a variable cleanly inside an expression without introducing algebra mistakes. This is symbolic control, not computation.
+
+**Fast recognition cues**
+
+- “solve for” a different variable
+
+- formula given (often physics-style)
+
+- multiple variables present
+
+- no numbers initially
+
+If a formula is given and you're told to isolate a variable, move carefully and symmetrically.
+
+**Canonical example problem**
+
+Example:
+
+Solve for $r$:
+
+$$A=π𝑟^{2}$$
+
+**Fast solution path**
+
+Isolate $r^2$:
+
+$$r^{2} = \frac{A}{π}$$
+
+Now take square root:
+
+$$r = \sqrt{\frac{A}{π}}$$
+
+Answer:
+
+$$r = \sqrt{\frac{A}{π}}$$
+
+**Trap note**
+
+- Dividing only part of an expression
+
+- Forgetting square roots when isolating squared variables
+
+- Losing track of parentheses
+
+**Takeaway**
+
+Treat formulas symmetrically. Whatever you do to one side, do to the entire other side.
+
+
+---
+
 ### Substitution
+
+**What the GRE is really testing:**
+
+Whether you can use one equation to simplify another without solving everything fully. This is often faster than elimination.
+
+**Fast recognition cues**
+
+- Two equations
+
+- One equation already isolated
+
+- Expressions like “given that”
+
+If a variable is already isolated, substitute immediately.
+
+**Canonical example problem**
+
+Example:
+
+Given:
+
+$$x=2y+3$$
+
+and
+
+$$x+y=18$$
+
+Find $y$.
+
+**Fast solution path**
+
+Substitute into second equation:
+
+$$(2y+3)+y=18$$
+
+Combine terms:
+
+$$3y+3=18$$
+
+$$3y=15$$
+
+$$y=5$$
+
+Answer: $5$
+
+**Trap note**
+
+- Forgetting parentheses when substituting
+
+- Solving both equations separately instead of combining them
+
+- Arithmetic errors after substitution
+
+**Takeaway**
+
+If one variable is already isolated, substitute immediately.
+
+---
 
 ### Systems of equations (simple)
 
+**What the GRE is really testing:**
+
+Whether you can solve small linear systems efficiently without overcomplicating them.
+
+**Fast recognition cues**
+
+- Two linear equations
+
+- Two variables
+
+- Numeric answer choices
+
+Decide quickly: substitution or elimination.
+
+**Canonical example problem**
+
+Example:
+
+Solve the system:
+
+$$2x+y=11$$
+
+$$x−y=1$$
+
+**Fast solution path**
+
+Add equations:
+
+$$(2x + y) + (x - y) = 11 + 1$$
+
+$$3x = 12$$
+
+$$x = 4$$
+
+**Trap note**
+
+- Arithmetic mistakes
+
+- Forgetting to substitute back
+
+- Over-solving when answer choices allow plugging
+
+**Takeaway**
+
+Use elimination when coefficients align cleanly.
+
+--- 
+
 ### Translating words to algebra
+
+**What the GRE is really testing:**
+
+Whether you can convert language into equations without distortion. Most mistakes happen before math even begins.
+
+**Fast recognition cues**
+
+- “twice”
+
+- “three more than”
+
+- “less than”
+
+- “sum of”
+
+- “difference between”
+
+- “at least”
+
+Read slowly. Write structure first.
+
+**Canonical example problem**
+
+Example:
+
+Five more than twice a number is equal to $17$.
+Find the number.
+
+**Fast solution path**
+
+Translate carefully:
+
+Twice a number:
+
+$$2x$$
+
+Five more than that:
+
+$$2x + 5$$
+
+Set equal to $17$:
+
+$$2x + 5 = 17$$
+
+Solve:
+
+$$2x = 12$$
+
+$$x = 6$$
+
+Answer: $6$
+
+**Trap note**
+
+- Reversing “less than”
+
+- Misplacing constants
+
+- Starting arithmetic before writing structure
+
+**Takeaway**
+
+Write the algebra before solving anything.
 
 ---
 
