@@ -1458,6 +1458,57 @@ Write the algebra before solving anything.
 
 ### Distance = rate × time
 
+**What the GRE is really testing**
+
+Whether you recognize rate problems immediately and set up the correct relationship before calculating. These are structure problems, not arithmetic problems.
+
+The core formula is:
+
+$$Distance=Rate×Time$$
+
+**Fast recognition cues**
+
+- “miles per hour”
+
+- “speed”
+
+- “travels”
+
+- “distance between”
+
+- “how long will it take”
+
+If units include distance per time, this formula is active.
+
+**Canonical example problem**
+
+Example:
+
+A car travels at a constant speed of $60$ miles per hour.
+How far does it travel in $2.5$ hours?
+
+**Fast solution path**
+
+Use the formula:
+
+$$Distance=60×2.5$$
+
+$$=150$$
+
+Answer: $150$ miles
+
+$$Trap note$$
+
+- Mixing units (minutes vs hours)
+
+- Dividing when you should multiply
+
+- Forgetting to convert time into consistent units
+
+**Takeaway**
+
+Write $d = rt$ immediately. Then plug in.
+
 ### Combined work problems
 
 ### Average speed
