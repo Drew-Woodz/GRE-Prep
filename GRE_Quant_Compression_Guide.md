@@ -1509,11 +1509,146 @@ $$Trap note$$
 
 Write $d = rt$ immediately. Then plug in.
 
+---
+
 ### Combined work problems
+
+**What the GRE is really testing**
+
+Whether you understand work as a rate. These problems are about adding rates, not adding times.
+
+**Fast recognition cues**
+
+- “working together”
+
+- “can complete in ___ hours”
+
+- “pipes filling a tank”
+
+- “machines operating simultaneously”
+
+If multiple workers or machines are involved, think rate addition.
+
+**Canonical example problem**
+
+Example:
+
+Worker A can complete a job in $6$ hours.
+Worker B can complete the same job in $3$ hours.
+How long will it take them working together?
+
+**Fast solution path**
+
+Convert time to rate:
+
+Worker A rate:
+
+$$\frac{1}{6}$$
+
+Worker B rate:
+
+$$\frac{1}{3}$$
+
+Add rates:
+
+$$\frac{1}{6}  + \frac{1}{3}$$
+
+Rewrite:
+
+​$$\frac{1}{6} + \frac{2}{6} = \frac{3}{6} =\frac{1}{2}$$
+
+
+Combined rate is $\frac{1}{2}$ job per hour.
+
+Time required:
+
+2 hours
+
+Answer: $2$ hours
+
+**Trap note**
+
+Adding times instead of rates
+
+Forgetting to find common denominator
+
+Inverting at the wrong step
+
+**Takeaway**
+
+Convert time to rate first. Add rates. Invert at the end.
+
+---
 
 ### Average speed
 
+**What the GRE is really testing**
+
+Whether you understand that average speed is total distance divided by total time. It is not the average of speeds unless distances are equal.
+
+**Fast recognition cues**
+
+- “average speed”
+
+- two different speeds
+
+- equal distances or equal times
+
+- round-trip problems
+
+If distances differ, you cannot average speeds directly.
+
+**Canonical example problem**
+
+Example:
+
+A car travels $60$ miles at $60$ mph and returns $60$ miles at $30$ mph.
+What is the average speed for the entire trip?
+
+**Fast solution path**
+
+Total distance:
+
+$$60+60=120$$
+
+Time for first leg:
+
+$$\frac{60}{60} = 1 $$
+
+
+Time for second leg:
+
+$$\frac{60}{30} = 2$$
+
+Total time:
+
+$$3$$
+
+Average speed:
+
+$$\frac{120}{3}=40$$
+
+Answer: $40$ mph
+
+**Trap note**
+
+- Taking $(60 + 30)/2 = 45$ (incorrect)
+
+- Forgetting to compute total time
+
+- Mixing up equal time vs equal distance cases
+
+**Takeaway**
+
+Average speed = total distance ÷ total time. Always.
+
+---
+
 ### Mixture problems
+
+**What the GRE is really testing**
+
+Whether you can track quantities of substance rather than just totals. These are weighted average problems in disguise.
 
 ### Translating verbose language into equations
 
