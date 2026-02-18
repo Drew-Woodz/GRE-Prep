@@ -1707,9 +1707,187 @@ Translate first. Compute second.
 
 ### Laws of exponents
 
+**What the GRE is really testing**
+
+Whether you remember the mechanical rules and apply them without hesitation. These are not concept questions. They are rule-application speed checks.
+
+You must know:
+
+$$a^{m} \cdot a^{n} = a^{m+n}$$
+
+$$\frac{a^{m}}{a^{n}} = a^{m-n}$$
+
+$$(a^{m})^{n} = a^{mn}$$
+
+$$(ab)^{n} = a^{n}b^{n}$$
+
+**Fast recognition cues**
+
+- Same base repeated
+
+-Division of powers
+
+- Power raised to a power
+
+- Expressions that look expandable
+
+If bases match, combine exponents immediately.
+
+**Canonical example problem**
+
+Example:
+
+Simplify:
+
+$$\frac{3^{7} \cdot 3^{2}}{3^{4}}$$
+
+**Fast solution path**
+
+Combine numerator:
+
+$$3^{7+2} = 3^{9}$$
+
+Now divide:
+
+$$3^{9-4}=3^{5}$$
+
+Answer:
+
+$$3^{5}$$
+
+**Trap note**
+
+- Adding exponents during division
+
+- Multiplying exponents during multiplication
+
+- Forgetting subtraction rule
+
+**Takeaway**
+
+Same base → operate on exponents only.
+
 ### Square roots and cubes
 
+**What the GRE is really testing**
+
+Whether you can simplify radicals and recognize perfect powers quickly. These are simplification problems, not computation problems.
+
+**Fast recognition cues**
+
+- Radical symbols
+
+- Perfect squares or cubes
+
+- Variables under square roots
+
+- Expressions like $\sqrt{50}$ or $\sqrt{x^2}$
+
+If you see a radical, look for perfect square factors.
+
+**Canonical example problem**
+
+Example:
+
+Simplify:
+
+$$\sqrt{72}$$
+​
+**Fast solution path**
+
+Factor:
+
+$$72 = 36 \cdot 2$$
+
+
+So:
+
+$$\sqrt{72} =\sqrt{36}\sqrt{2}$$
+$$6\sqrt{2}$$
+
+Answer:
+
+$$6\sqrt{2}$$
+
+**Important identity**
+
+$$\sqrt{x^{2}} = |x|$$
+
+On GRE, usually assume variables are positive unless stated otherwise, but be alert.
+
+**Trap note**
+
+- Leaving radicals unsimplified
+
+- Forgetting absolute value in theory
+
+- Trying to decimal-approximate
+
+**Takeaway**
+
+Pull perfect squares out of radicals immediately.
+
+---
+
 ### Negative and fractional exponents
+
+**What the GRE is really testing**
+
+Whether you understand exponent definitions rather than memorized surface forms.
+
+Core rules:
+
+$$a^{-n} = \frac{1}{a^{n}}$$
+
+$$a^{\frac{1}{n}} = \sqrt[n]{a}$$
+
+$$a^{\frac{m}{n}}= \sqrt[n]{a^{m}}$$
+
+**Fast recognition cues**
+
+- Negative exponents
+
+- Fractional exponents
+
+- Expressions that look complicated but are simple roots
+
+Rewrite before simplifying.
+
+**Canonical example problem**
+
+Example:
+
+Simplify:
+
+$$16^{\frac{3}{4}}$$
+
+**Fast solution path**
+
+Rewrite:
+
+$$16\frac{3}{4} = (16^{\frac{1}{4}})^{3}$$
+
+Since:
+
+$$16^{\frac{1}{4}} = 2$$
+
+Then:
+
+$$2^{3} = 8$$
+
+Answer: $8$
+
+**Trap note**
+
+- Raising 16 to 3 first
+
+- Misplacing numerator and denominator of exponent
+
+- Forgetting negative exponent flips fraction
+
+**Takeaway**
+
+Fractional exponents are roots first, powers second.
 
 ### Simplifying expressions
 
