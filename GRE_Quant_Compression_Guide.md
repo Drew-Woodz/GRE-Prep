@@ -1652,6 +1652,53 @@ Whether you can track quantities of substance rather than just totals. These are
 
 ### Translating verbose language into equations
 
+**What the GRE is really testing**
+
+Whether you can cut through wordiness and isolate structure. Word problems are often algebra problems wrapped in narrative.
+
+**Fast recognition cues**
+
+- Long sentences
+
+- Multiple quantities
+
+- “more than,” “less than,” “at least,” “no more than”
+
+- comparison phrases
+
+Underline structure before solving.
+
+**Canonical example problem**
+
+Example:
+
+John is $5$ years older than twice Mary’s age.
+If Mary is $8$ years old, how old is John?
+
+Fast solution path
+
+Twice Mary’s age:
+
+$$2×8=16$$
+
+Five more than that:
+
+$$16+5=21$$
+
+Answer: $21$
+
+**Trap note**
+
+- Reversing “less than”
+
+- Solving before translating
+
+- Misreading comparative language
+
+**Takeaway**
+
+Translate first. Compute second.
+
 ---
 
 # Section 5

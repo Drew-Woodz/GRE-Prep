@@ -42,7 +42,7 @@ No solutions are shown immediately. Work the problem before scrolling.
 
     C) $𝑝 − 2$ is prime
 
-    D) $𝑝^(2)$ is prime
+    D) $𝑝^{2}$ is prime
 
     E) $𝑝$ is divisible by $3$
 
