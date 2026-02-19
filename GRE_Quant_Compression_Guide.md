@@ -1865,7 +1865,7 @@ $$16^{\frac{3}{4}}$$
 
 Rewrite:
 
-$$16\frac{3}{4} = (16^{\frac{1}{4}})^{3}$$
+$$16^{\frac{3}{4}} = (16^{\frac{1}{4}})^{3}$$
 
 Since:
 
@@ -1891,7 +1891,109 @@ Fractional exponents are roots first, powers second.
 
 ### Simplifying expressions
 
+**What the GRE is really testing**
+
+Whether you can combine exponent rules cleanly without expanding unnecessarily.
+
+**Fast recognition cues**
+
+- Nested exponents
+
+- Mixed multiplication and division
+
+- Expressions designed to look messy
+
+Do not expand unless forced.
+
+**Canonical example problem**
+
+Example:
+
+Simplify:
+
+$$\frac{(2^{3}\cdot2^{-1})^{2}}{2^{4}}$$
+
+**Fast solution path**
+
+Inside parentheses:
+
+$$2^{3-1}=2^{2}$$
+
+Raise to power 2:
+
+$$(2^{2})^{2}=2^{4}$$
+
+Now divide:
+
+$$\frac{2^{4}}{2^{4}}=2^{0}=1$$
+
+Answer: $1$
+
+**Trap note**
+
+- Expanding everything numerically
+
+- Forgetting exponent multiplication rule
+
+- Losing track of negative exponents
+
+**Takeaway**
+
+Simplify step-by-step using exponent laws only.
+
+
 ### Growth/decay intuition (light)
+
+**What the GRE is really testing**
+
+Whether you recognize exponential growth structure. This appears in percent growth and word problems, not heavy modeling.
+
+Core form:
+
+$$A=P(1+r)^{t}$$
+
+**Fast recognition cues**
+
+- “grows by ___% each year”
+
+- “population doubles”
+
+- “compounded”
+
+- repeated percent increase
+
+Repeated percent changes multiply.
+
+**Canonical example problem**
+
+Example:
+
+An investment of $1000$ grows by $10%$ annually for 2 years.
+What is its value after 2 years?
+
+**Fast solution path**
+
+Multiply by:
+
+$$(1.10)^{2}$$
+
+Compute:
+
+$$1000×1.21=1210$$
+
+Answer: $1210$
+
+**Trap note**
+
+- Adding 10% twice instead of compounding
+
+- Forgetting that growth compounds multiplicatively
+
+-Treating percent increase as linear
+
+**Takeaway**
+
+Repeated percent growth means repeated multiplication.
 
 ---
 
@@ -1899,13 +2001,183 @@ Fractional exponents are roots first, powers second.
 
 ## 6. Quadratics and Polynomials (Minimalist)
 
+Quadratics on the GRE are procedural, not theoretical. The test rarely requires the quadratic formula and almost never presents ugly expressions unless there is a simpler structure hiding underneath.
+
+If it looks messy, you are likely solving the wrong way.
+
+The goal in this section is pattern recognition and controlled manipulation, not algebraic heroics.
+
 ### Factoring quadratics
+
+**What the GRE is really testing**
+
+Whether you recognize factorable patterns quickly. Most quadratics on the GRE factor cleanly over integers.
+
+**Fast recognition cues**
+
+- Expressions like $x^{2}+5x+6$
+
+- “Which of the following is a factor of…”
+
+- Roots that look like small integers
+
+- Answer choices that are linear expressions
+
+If the middle coefficient is manageable, attempt factoring before using formulas.
+
+Canonical example problem
+
+Example:
+
+Factor:
+
+$$𝑥^{2}+7x+12$$
+
+**Fast solution path**
+
+Find two numbers that:
+
+Multiply to 12
+Add to 7
+
+Those numbers are 3 and 4.
+
+So:
+
+$$(x+3)(x+4)$$
+
+Answer:
+
+$$(x+3)(x+4)$$
+
+**Trap note**
+
+- Mixing signs
+
+- Forgetting that two negatives multiply to positive
+
+- Jumping to quadratic formula too early
+
+**Takeaway**
+
+Check for clean factoring before doing anything else.
 
 ### Solving simple quadratics
 
+**Solving simple quadratics**
+
+What the GRE is really testing
+
+Whether you can solve factorable quadratics cleanly and remember the zero-product property.
+
+**Fast recognition cues**
+
+- Equation set equal to zero
+
+- Factorable structure
+
+- Integer roots likely
+
+If not set equal to zero, do that first.
+
+**Canonical example problem**
+
+Example:
+
+Solve:
+
+$$x^{2}-5x+6=0$$
+
+*Fast solution path**
+
+Factor:
+
+$$(x-2)(x-3)=0$$
+
+Set each factor equal to zero:
+
+$$x = 2 \space or \space x = 3$$
+
+Answer:
+
+$$2,3$$
+
+**Trap note**
+
+- Solving only one factor
+
+- Forgetting to set equation equal to zero
+
+- Arithmetic errors while factoring
+
+**Takeaway**
+
+Factor. Apply zero-product rule. Stop.
+
 ### Recognizing perfect squares
 
+**What the GRE is really testing**
+
+Whether you recognize structural identities quickly.
+
+Know these cold:
+
+$$(a+b)^{2} = a^{2}+2ab+b^{2}$$
+$$(a-b)^{2} = a^{2}-2ab+b^{2}$$
+
+**Fast recognition cues**
+
+- Symmetric coefficients
+
+- Middle term equal to twice product
+
+- Expressions like $x^{2}+10x+25$
+
+If the last term is a perfect square and the middle term is double its root times x, it’s a perfect square.
+
+**Canonical example problem**
+
+Example:
+
+Factor:
+
+$$x^{2}+10x+25$$
+
+**Fast solution path
+
+$$25 \space is \space 5^{2}$$
+
+Check middle term:
+
+$$ 2 \cdot 5 \cdot x \space is \space 10x$$
+
+So:
+
+$$(x+5)^2$$
+
+Answe:
+
+$$(x+5)^2$$
+
+**Trap note**
+
+- Treating it as generic quadratic
+
+- Forgetting middle-term pattern
+
+- Misreading sign
+
+**Takeaway**
+
+Perfect square trinomials are instant pattern recognition.
+
+
 ### Plugging values instead of solving
+
+**What the GRE is really testing**
+
+Whether you recognize when brute algebra is unnecessary. Many quadratic comparison questions can be solved by plugging strategic values.
+
 
 ---
 
