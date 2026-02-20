@@ -2178,6 +2178,55 @@ Perfect square trinomials are instant pattern recognition.
 
 Whether you recognize when brute algebra is unnecessary. Many quadratic comparison questions can be solved by plugging strategic values.
 
+**Fast recognition cues**
+
+- Quantitative Comparison
+
+- Expression comparisons
+
+- Symmetric-looking algebra
+
+- No specific numeric value required
+
+If the question asks comparison, not solution, consider plugging.
+
+**Canonical example problem**
+
+Example (Quantitative Comparison):
+
+Quantity A:
+If $𝑥^{2}=16$ then $x$
+
+Quantity B:
+$4$
+
+**Fast solution path**
+
+If:
+
+$$x^{2} = 16$$
+
+Then:
+
+$$x=4 \space or \space x =-4$$
+
+Quantity A could be $4$ or $-4$
+
+So sometimes equal, sometimes less.
+
+Answer: (Cannot be determined)
+
+**Trap note**
+
+- Assuming positive root only
+
+- Solving more than necessary
+
+- Forgetting quadratic equations often have two solutions
+
+**Takeaway**
+
+When comparison is asked, test cases before solving symbolically.
 
 ---
 
@@ -2185,9 +2234,86 @@ Whether you recognize when brute algebra is unnecessary. Many quadratic comparis
 
 ## 7. Geometry (High-Yield Only)
 
+Geometry on the GRE is formula recall and diagram discipline. It is not proof-based. You either know the formula or you waste time deriving it.
+
+Memorize these before test day.
+
 ### Lines and angles
 
+**What the GRE is really testing**
+
+Whether you know basic angle relationships.
+
+**Must know**
+
+- Vertical angles are equal
+
+- Linear pair sums to 180°
+
+- Around a point sums to 360°
+
+- Parallel lines create equal alternate interior angles
+
+**Canonical example problem**
+
+Example:
+
+Two parallel lines are cut by a transversal. One interior angle is $65°$. What is its alternate interior angle?
+
+**Fast solution path**
+
+Alternate interior angles are equal.
+
+Answer:
+
+$$65°$$
+
+**Trap note**
+
+- Confusing supplementary with equal
+
+- Forgetting which angles match
+
+**Takeaway**
+
+Parallel lines → angle copying rules apply.
+
 ### Triangles (especially right triangles)
+
+**What the GRE is really testing**
+
+Whether you know the Pythagorean theorem and special triangles.
+
+**Must memorize**
+
+Pythagorean:
+
+$$a^{2}+b^{2}=c^{2}$$
+
+Special triangles:
+
+$3-4-5$
+
+$5-12-13$
+
+$45-45-90 \space (legs \space equal, \space hypotenuse = \sqrt{2} \space times \space leg)$
+
+$30-60-90 \space (short \space leg \space \times = hypotenuse)$
+
+**Canonical example problem**
+
+Example:
+
+A right triangle has legs 6 and 8. What is the hypotenuse?
+
+**Fast solution path**
+
+Recognize 3–4–5 pattern scaled by 2.
+
+Answer:
+
+$$10$$
+
 
 ### Circles (area, circumference)
 
