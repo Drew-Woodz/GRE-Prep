@@ -779,9 +779,7 @@ Cancel common factors:
 
 $$\frac{2^2 \times 3 \times 7}{2 \times 3^2 \times 7} = \frac{2}{3}$$
 
-Answer:
-
-$$\frac{2}{3}$$
+Answer: $\frac{2}{3}$
 
 **Trap note**
 
@@ -1048,9 +1046,7 @@ Divide by total students:
 
 $$\frac{2600}{30} = 86.\overline{6}$$
 
-Answer:
-
-$$86.\overline{6}$$
+Answer: $86.\overline{6}$
 
 **Trap note**
 
@@ -1188,9 +1184,7 @@ $$3x−2x=9+7$$
 
 $$x=16$$
 
-Answer:
-
-$$x=16$$
+Answer: $x=16$
 
 **Slightly harder variation**
 
@@ -1256,9 +1250,7 @@ Now take square root:
 
 $$r = \sqrt{\frac{A}{π}}$$
 
-Answer:
-
-$$r = \sqrt{\frac{A}{π}}$$
+Answer: $r = \sqrt{\frac{A}{π}}$
 
 **Trap note**
 
@@ -1370,6 +1362,14 @@ $$(2x + y) + (x - y) = 11 + 1$$
 $$3x = 12$$
 
 $$x = 4$$
+
+Substitute back:
+
+$$4 - y = 1$$
+$$y = 3$$
+
+Answer: $x = 4$, $y = 3$
+
 
 **Trap note**
 
@@ -1497,7 +1497,7 @@ $$=150$$
 
 Answer: $150$ miles
 
-$$Trap note$$
+**Trap note**
 
 - Mixing units (minutes vs hours)
 
@@ -1650,6 +1650,61 @@ Average speed = total distance ÷ total time. Always.
 
 Whether you can track quantities of substance rather than just totals. These are weighted average problems in disguise.
 
+**Fast recognition cues**
+
+- “solution”
+
+- “mixture”
+
+- “percent concentration”
+
+- “combined”
+
+- “added”
+
+If concentration is mentioned, track amount of pure substance.
+
+**Canonical example problem**
+
+Example:
+
+A $10$-liter solution is $20%$ salt.
+How much pure salt is in the solution?
+
+Fast solution path
+
+Convert percent:
+
+$$0.20 \times 10 = 2$$
+
+Answer: $2$ liters of salt
+
+Slightly extended version:
+
+If $5$ liters of water are added, total volume becomes:
+
+$$15$$
+
+Salt remains $2$ liters.
+
+New concentration:
+
+$$\frac{2}{15}$$
+
+Convert to percent if needed.
+
+**Trap note**
+
+- Averaging percentages directly
+
+- Forgetting that amount of pure substance stays constant unless changed
+
+- Mixing percent with volume incorrectly
+
+**Takeaway**
+
+Track pure substance, not just total volume.
+
 ### Translating verbose language into equations
 
 **What the GRE is really testing**
@@ -1725,7 +1780,7 @@ $$(ab)^{n} = a^{n}b^{n}$$
 
 - Same base repeated
 
--Division of powers
+- Division of powers
 
 - Power raised to a power
 
@@ -1751,9 +1806,7 @@ Now divide:
 
 $$3^{9-4}=3^{5}$$
 
-Answer:
-
-$$3^{5}$$
+Answer: $3^{5}$
 
 **Trap note**
 
@@ -1805,9 +1858,7 @@ So:
 $$\sqrt{72} =\sqrt{36}\sqrt{2}$$
 $$6\sqrt{2}$$
 
-Answer:
-
-$$6\sqrt{2}$$
+Answer: $6\sqrt{2}$
 
 **Important identity**
 
@@ -2046,9 +2097,7 @@ So:
 
 $$(x+3)(x+4)$$
 
-Answer:
-
-$$(x+3)(x+4)$$
+Answer: $(x+3)(x+4)$
 
 **Trap note**
 
@@ -2064,9 +2113,7 @@ Check for clean factoring before doing anything else.
 
 ### Solving simple quadratics
 
-**Solving simple quadratics**
-
-What the GRE is really testing
+**What the GRE is really testing**
 
 Whether you can solve factorable quadratics cleanly and remember the zero-product property.
 
@@ -2088,7 +2135,7 @@ Solve:
 
 $$x^{2}-5x+6=0$$
 
-*Fast solution path**
+**Fast solution path**
 
 Factor:
 
@@ -2098,9 +2145,7 @@ Set each factor equal to zero:
 
 $$x = 2 \space or \space x = 3$$
 
-Answer:
-
-$$2,3$$
+Answer: $2,3$ 
 
 **Trap note**
 
@@ -2143,21 +2188,19 @@ Factor:
 
 $$x^{2}+10x+25$$
 
-**Fast solution path
+**Fast solution path**
 
 $$25 \space is \space 5^{2}$$
 
 Check middle term:
 
-$$ 2 \cdot 5 \cdot x \space is \space 10x$$
+$$ 2 \cdot 5 \cdot x = 10x$$
 
 So:
 
 $$(x+5)^2$$
 
-Answe:
-
-$$(x+5)^2$$
+Answer: $(x+5)^2$
 
 **Trap note**
 
@@ -2264,9 +2307,7 @@ Two parallel lines are cut by a transversal. One interior angle is $65°$. What 
 
 Alternate interior angles are equal.
 
-Answer:
-
-$$65°$$
+Answer: $65°$
 
 **Trap note**
 
@@ -2298,7 +2339,7 @@ $5-12-13$
 
 $45-45-90 \space (legs \space equal, \space hypotenuse = \sqrt{2} \space times \space leg)$
 
-$30-60-90 \space (short \space leg \space \times = hypotenuse)$
+$30-60-90 \space (short \space leg \space \times 2 = hypotenuse)$
 
 **Canonical example problem**
 
@@ -2310,16 +2351,95 @@ A right triangle has legs 6 and 8. What is the hypotenuse?
 
 Recognize 3–4–5 pattern scaled by 2.
 
-Answer:
+Answer: $10$
 
-$$10$$
+**Trap note**
 
+Forgetting to square
+
+Not recognizing scaled special triangles
+
+**Takeaway**
+
+Know special triangles cold.
 
 ### Circles (area, circumference)
 
+**Must know**
+
+Area:
+
+$$πr^{2}$$
+
+Circumference:
+
+$$2πr$$
+
+**Canonical example problem**
+
+Example:
+
+A circle has radius 3. What is its area?
+
+**Fast solution path**
+
+$$π(3)^{2}=9π$$
+
+Answer: $9π$
+
+**Trap note**
+
+- Confusing circumference with area
+
+- Squaring incorrectly
+
+**Takeaway**
+
+Memorize circle formulas. Do not derive.
+
 ### Coordinate geometry basics
 
+Distance formula:
+
+$$\sqrt{(x_2-x_1)^{2}+(y_2-y_1)^{2}}$$
+
+Slope:
+
+$$\frac{y_2-y_1}{x_2-x_1}$$
+
+**Canonical example problem**
+
+Find slope between (1,2) and (4,8).
+
+Solution
+
+$$\frac{8-2}{4-1} = \frac{6}{3} = 2$$
+
+Answer: $2$
+
+**Trap note**
+
+Reversing subtraction
+
+Arithmetic mistakes
+
 ### Area vs perimeter traps
+
+**What the GRE is really testing**
+
+Whether you assume shapes are fixed when they are not.
+
+**Canonical example**
+
+Two rectangles have equal perimeter. Which has greater area?
+
+Answer: Cannot be determined.
+
+Different dimensions yield different areas.
+
+**Takeaway**
+
+Equal perimeter does not imply equal area.
 
 ---
 
@@ -2327,13 +2447,260 @@ $$10$$
 
 ## 8. Data Interpretation
 
+Data Interpretation is not about advanced math. It is about discipline.
+
+Most mistakes here come from:
+
+- Reading too much
+
+- Calculating too precisely
+
+- Losing track of what the question actually asked
+
+This section tests selective attention under mild cognitive overload. The math is usually basic fractions and percents. The difficulty is filtering.
+
 ### Reading tables and charts
+
+**What the GRE is really testing**
+
+Whether you can extract only the data that matters and ignore everything else.
+
+Most DI questions can be answered using a single row or column.
+
+Fast recognition cues
+
+- Large table with multiple columns
+
+- Bar graphs with multiple categories
+
+- Pie charts
+
+- Multi-year comparisons
+
+If the visual looks dense, the answer is probably not.
+
+**Canonical example problem**
+
+Example:
+
+A table shows company revenue (in millions) for 4 years:
+
+| Year | Revenue |
+| ---- | ------- |
+| 2018 | 120     |
+| 2019 | 150     |
+| 2020 | 135     |
+| 2021 | 165     |
+
+Question:
+
+What was the percent increase in revenue from 2018 to 2021?
+
+Fast solution path
+
+Only use 2018 and 2021.
+
+Ignore the middle years.
+
+Percent change:
+
+$$\frac{165-120}{120}=\frac{45}{120}=0.375=37.5\%$$
+
+Answer: $37.5\%$
+
+**Trap note**
+
+- Averaging across all years
+
+- Using wrong baseline
+
+- Doing unnecessary intermediate calculations
+
+**Takeaway**
+
+Most DI questions require less data than you think.
 
 ### Percent and ratio comparisons
 
+**What the GRE is really testing**
+
+Whether you can compare relative changes instead of absolute differences.
+
+Many students compare raw numbers when they should compare proportions.
+
+**Fast recognition cues**
+
+- “Which increased more?”
+
+- “Which had the greater percent change?”
+
+- Two categories with different starting values
+
+If starting values differ, absolute change is not enough.
+
+**Canonical example problem**
+
+Example:
+
+Product A increases from 50 to 70.
+Product B increases from 200 to 230.
+
+Which had the greater percent increase?
+
+**Fast solution path**
+
+Product A:
+
+$$\frac{20}{50} = 40\%$$
+
+Product B:
+
+$$\frac{30}{200}=15\%$$
+
+Answer: Product A
+
+**Trap note**
+
+- Comparing 20 vs 30 directly
+
+- Ignoring baseline size
+
+- Confusing percent increase with difference
+
+**Takeaway**
+
+Percent comparisons require dividing by the original value.
+
 ### Estimation
 
+**What the GRE is really testing**
+
+Whether you can avoid unnecessary precision.
+
+Exact arithmetic is often a waste of time.
+
+**Fast recognition cues**
+
+- Ugly decimals
+
+- Large numbers
+
+- Answer choices far apart
+
+- “Approximately” in the question
+
+If answers are widely spaced, estimate.
+
+**Canonical example problem**
+
+Example:
+
+A chart shows 4 categories:
+
+Category A: 198
+
+Category B: 402
+
+Category C: 610
+
+Category D: 790
+
+What percent of the total does Category C represent?
+
+**Fast solution path**
+
+Total $≈ 200 + 400 + 600 + 800 = 2000$
+
+Category C $≈ 600$
+
+$$\frac{600}{2000}=30\%$$
+
+**Answer: Approximately $30\%$**
+
+Exact calculation unnecessary.
+
+**Trap note**
+
+- Adding everything exactly
+
+- Carrying decimals too far
+
+- Ignoring answer spacing
+
+**Takeaway**
+
+Estimate early if answer choices allow it.
+
 ### Multi-step arithmetic under time pressure
+
+**What the GRE is really testing**
+
+Whether you can manage chained arithmetic without losing structure.
+
+These problems are not conceptually difficult. They are cognitively heavy.
+
+**Fast recognition cues**
+
+- “First…, then…, finally…”
+
+- Multiple operations
+
+- Combining percent and totals
+
+- Comparing multiple years or groups
+
+Before calculating, outline the steps.
+
+**Canonical example problem**
+
+Example:
+
+A company’s revenue was 500 in 2020.
+It increased by 20% in 2021.
+Then decreased by 10% in 2022.
+
+What was the revenue in 2022?
+
+**Fast solution path**
+
+Step 1: 
+
+$$500 \times 1.2 = 600$$
+
+Step 2:
+
+$$600 \times 0.9 = 540$$
+
+Answer: $540$
+
+**Trap note**
+
+- Subtracting 10% from original 500
+
+- Adding 20% and subtracting 10% directly
+
+- Losing track of intermediate value
+
+**Takeaway**
+
+Percent changes compound multiplicatively. Track each step cleanly.
+
+### Section 8 Summary Rule
+
+Data Interpretation is not harder math.
+
+It is:
+
+- Controlled reading
+
+- Baseline awareness
+
+- Estimation discipline
+
+- Clean percent handling
+
+Do not calculate more than necessary.
+Do not read more than necessary.
 
 ---
 
@@ -2341,19 +2708,273 @@ $$10$$
 
 ## 9. Probability and Counting (Basic)
 
+The GRE does not test deep combinatorics.
+
+It tests whether you understand:
+
+- What probability actually means
+
+- How to count cleanly
+
+- When to use complements
+
+- When to split into cases
+
+Most mistakes here come from overcomplicating simple structure.
+
 ### Simple probability
+
+**What the GRE is really testing**
+
+Whether you remember that probability is:
+
+$$\frac{favorable \space outcomes}{total \space possible \space outcomes}$$
+
+That’s it.
+
+**Fast recognition cues**
+
+- “What is the probability that…”
+
+- Dice
+
+- Cards
+
+- Selecting one item
+
+- Random choice from a group
+
+If there is one random event, think fraction immediately.
+
+**Canonical example problem**
+
+Example:
+
+A fair six-sided die is rolled.
+What is the probability of rolling a number greater than 4?
+
+**Fast solution path**
+
+Numbers greater than 4:
+
+5 and 6
+
+Favorable outcomes = 2
+Total outcomes = 6
+
+$$\frac{2}{6} = \frac{1}{3}$$
+
+Answer: $\frac{1}{3}$
+
+**Trap note**
+
+- Forgetting total outcomes
+
+- Overthinking fairness
+
+- Leaving fraction unsimplified
+
+**Takeaway**
+
+Probability is a ratio. Count cleanly. Simplify.
+
+
 
 ### Counting with cases
 
+**What the GRE is really testing**
+
+Whether you can break a problem into mutually exclusive cases instead of guessing.
+
+This appears when conditions restrict outcomes.
+
+**Fast recognition cues**
+
+- “How many ways…”
+
+- Restrictions like “at least,” “exactly,” “must include”
+
+- Small numbers of possibilities
+
+If structure feels constrained, split into cases.
+
+**Canonical example problem**
+
+Example:
+
+How many two-digit numbers can be formed using digits 1, 2, and 3 if repetition is allowed?
+
+Fast solution path
+
+First digit: 3 choices
+Second digit: 3 choices
+
+Total:
+
+$$3 \times 3 = 9$$
+
+Answer $9$
+
+If repetition were not allowed:
+
+First digit: 3 choices
+Second digit: 2 choices
+
+$$3 \times 2 = 6$$
+
+**Trap note**
+
+- Forgetting repetition rule
+
+- Overlisting possibilities
+
+- Mixing cases incorrectly
+
+**Takeaway**
+
+Count positions. Multiply choices per position.
+
 ### “At least one” logic
 
+**What the GRE is really testing**
+
+Whether you recognize that “at least one” is easier solved using complements.
+
+Direct counting is usually messy.
+
+**Fast recognition cues**
+
+- “At least one”
+
+- “At least two”
+
+- Multiple trials
+
+- Independent events
+
+If you see “at least,” think complement.
+
+**Canonical example problem**
+
+Example:
+
+What is the probability of getting at least one head when flipping a fair coin twice?
+
+Fast solution path
+
+Total outcomes: 4
+
+HH, HT, TH, TT
+
+Instead of counting favorable directly, use complement.
+
+Probability of no heads = TT only
+
+$$\frac{1}{4}$$
+
+So:
+
+$$1 - \frac{1}{4} = \frac{3}{4}$$
+
+Answer: $\frac{3}{4}$
+
+**Trap note**
+
+- Trying to list all “at least one” outcomes manually
+
+- Double-counting
+
+- Forgetting to subtract from 1
+
+**Takeaway**
+
+“At least one” → count the opposite → subtract from 1.
+
 ### Complement rule
+
+**What the GRE is really testing**
+
+Whether you understand:
+
+$$P(A)=1−P(not A)$$
+
+This is the cleanest tool in basic probability.
+
+**Fast recognition cues**
+
+- “Not”
+
+- “At least”
+
+- “None”
+
+- “Fails to”
+
+If direct counting feels messy, flip it.
+
+**Canonical example problem**
+
+Example:
+
+A box contains 3 red balls and 2 blue balls.
+One ball is drawn at random.
+
+What is the probability that the ball drawn is not blue?
+
+Fast solution path
+
+Total balls: 5
+
+Probability of blue:
+
+$$\frac{2}{5}$$
+
+So:
+
+$$1- \frac{2}{5} = \frac{3}{5}$$
+
+Answer: $\frac{3}{5}$
+
+**Trap note**
+
+- Counting everything from scratch
+
+- Forgetting total probability equals 1
+
+- Making arithmetic errors in subtraction
+
+**Takeaway**
+
+Sometimes subtraction is easier than counting.
+
+### Section 9 Summary Rule
+
+Probability on the GRE is:
+
+- Clean counting
+
+- Structured multiplication
+
+- Complement awareness
+
+If the problem looks complicated, you are likely solving it the wrong way.
+
+No permutations formulas required unless explicitly structured.
+
+No advanced combinatorics.
+
+No clever tricks.
+
+Just structure.
+
 
 ---
 
 # Section 10
 
 ## 10. Quantitative Comparison Strategy
+
+
 
 ### Comparing expressions without full computation
 
