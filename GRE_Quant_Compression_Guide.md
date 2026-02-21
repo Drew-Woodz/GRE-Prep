@@ -2040,7 +2040,7 @@ Answer: $1210$
 
 - Forgetting that growth compounds multiplicatively
 
--Treating percent increase as linear
+- Treating percent increase as linear
 
 **Takeaway**
 
@@ -2076,7 +2076,7 @@ Whether you recognize factorable patterns quickly. Most quadratics on the GRE fa
 
 If the middle coefficient is manageable, attempt factoring before using formulas.
 
-Canonical example problem
+**Canonical example problem**
 
 Example:
 
@@ -2145,7 +2145,7 @@ Set each factor equal to zero:
 
 $$x = 2 \space or \space x = 3$$
 
-Answer: $2,3$ 
+Answer: $2, 3$ 
 
 **Trap note**
 
@@ -2257,7 +2257,7 @@ Quantity A could be $4$ or $-4$
 
 So sometimes equal, sometimes less.
 
-Answer: (Cannot be determined)
+Answer: D (Cannot be determined)
 
 **Trap note**
 
@@ -2433,7 +2433,7 @@ Whether you assume shapes are fixed when they are not.
 
 Two rectangles have equal perimeter. Which has greater area?
 
-Answer: Cannot be determined.
+Answer: D (Cannot be determined.)
 
 Different dimensions yield different areas.
 
@@ -2615,7 +2615,7 @@ Category C $≈ 600$
 
 $$\frac{600}{2000}=30\%$$
 
-**Answer: Approximately $30\%$**
+Answer: Approximately $30\%$
 
 Exact calculation unnecessary.
 
@@ -2974,12 +2974,363 @@ Just structure.
 
 ## 10. Quantitative Comparison Strategy
 
+Quantitative Comparison is not a topic.
 
+It is a format.
+
+People lose points here not because they cannot do the math, but because they solve more than necessary.
+
+The goal is not to compute both sides fully.
+
+The goal is to determine the relationship.
+
+A, B, C, D
+
+You are not solving for an answer.
+
+You are testing whether a relationship is always true.
 
 ### Comparing expressions without full computation
 
+**What the GRE is really testing**
+
+Whether you understand structural comparison.
+
+Often both sides share common components that cancel mentally.
+
+**Fast recognition cues**
+
+- Similar algebraic structure
+
+- Same terms on both sides
+
+- Expressions that look expandable
+
+- Fractions with similar denominators
+
+If both sides share pieces, compare differences.
+
+**Canonical example problem**
+
+Quantity A:
+
+$$x^{2}+5x$$
+
+Quantity B:
+
+$$x^2+3x$$
+
+**Fast solution path**
+
+Subtract common term $x^{2}$
+
+Compare:
+
+$$5x \space vs \space 3x$$
+
+Difference:
+
+$$2x$$
+
+Now think:
+
+If $𝑥>0$, Quantity A is larger.
+
+If $x<0$, Quantity B is larger.
+
+If $x=0$, equal.
+
+Relationship depends on $x$.
+
+Answer: D (Cannot be determined)
+
+**Trap note**
+
+- Expanding unnecessarily
+
+- Plugging random numbers without checking sign variation
+
+- Assuming x is positive
+
+**Takeaway**
+
+Strip common structure first.
+
 ### Plugging numbers
+
+**What the GRE is really testing**
+
+Whether you know when algebra is unnecessary.
+
+Plugging is powerful when:
+
+- Variables have no restrictions
+
+- Expression comparison is abstract
+
+- Clean numbers make structure obvious
+
+**Fast recognition cues**
+
+- No constraints on variable
+
+- Comparison question
+
+- Algebra looks messy but numeric substitution is simple
+
+Choose strategic values.
+
+**Canonical example problem**
+
+Quantity A: $$\frac{x}{x+1}$$
+
+Quantity B: $$\frac{x+1}{x+2}$$​
+
+No restriction on $x$.
+
+**Fast solution path**
+
+Plug smart. Test extremes. Test sign changes.
+
+Plug in $x = 1:$
+
+$A = 1/2$
+
+$B = 2/3$
+
+$B$ larger.
+
+Plug in $x = 10:$
+
+$A = 10/11$
+
+$B = 11/12$
+
+Compare roughly:
+
+$10/11 ≈ .91$
+
+$11/12 ≈ .92$
+
+Still $B$ is larger.
+
+Try x = -2:
+
+Now denominators change sign.
+
+You may find relationship shifts depending on domain.
+
+If any value changes relationship → D.
+
+**Trap note**
+
+- Plugging only one value
+
+- Plugging 0 when denominator cannot be 0
+
+- Forgetting to test negative numbers
+
+**Takeaway**
+
+Plug smart. Test extremes. Test sign changes.
 
 ### Boundary testing
 
+**What the GRE is really testing**
+
+Whether you understand how expressions behave at limits.
+
+Boundary cases often expose hidden inequality reversals.
+
+**Fast recognition cues**
+
+- Inequalities
+
+- Absolute values
+
+- Even powers
+
+- Expressions involving squares
+
+Test:
+
+- Zero
+
+- One
+
+- Negative values
+
+- Large values
+
+**Canonical example problem**
+
+Quantity A:
+
+$x^{2}$
+
+Quantity B:
+
+$x$
+
+No restriction on $x$.
+
+**Fast solution path**
+
+Test $x = 2$:
+
+$A = 4$
+
+$B = 2$
+
+$A$ is larger
+
+Test x = 1:
+
+$A = 1$
+
+$B = 1$
+
+Equal
+
+Test $x = 0.5$:
+
+$A = 0.25$
+
+$B = 0.5$
+
+$B$ is larger
+
+Test $x = -2$:
+
+$A = 4$
+
+$B = -2$
+
+$A$ larger
+
+Relationship varies.
+
+Answer: D (Cannot be determined)
+
+**Trap note**
+
+- Testing only positive integers
+
+- Ignoring fractions
+
+- Forgetting negative values
+
+**Takeaway**
+
+QC requires testing structure across domains.
+
 ### Recognizing when D is correct
+
+**What the GRE is really testing**
+
+Whether you are comfortable choosing uncertainty.
+
+Many students avoid D because it feels like failure.
+
+It is not.
+
+D is correct when:
+
+- Relationship changes depending on value
+
+- Insufficient information
+
+- Hidden domain variation exists
+
+**Fast recognition cues**
+
+- No restrictions stated
+
+- Even powers
+
+- Fractions with variable denominators
+
+- Expressions sensitive to sign
+
+If one test value gives A > B
+and another gives A < B
+
+You are done.
+
+**Canonical example problem**
+
+Quantity A:
+
+The average of two numbers whose sum is 10.
+
+Quantity B:
+
+5
+
+**Fast solution path**
+
+Average $= (sum)/2 = 10/2 = 5$
+
+Always equal.
+
+Answer: C
+
+But if problem stated:
+
+“The average of two integers whose product is 10”
+
+Now possibilities vary.
+
+Relationship may change.
+
+Answer: D
+
+**Trap note**
+
+- Assuming variables are positive
+
+- Ignoring integer vs real distinctions
+
+- Emotional resistance to choosing D
+
+**Takeaway**
+
+D is not rare. It is logical.
+
+### Section 10 Summary Rule
+
+QC strategy is:
+
+- Strip common structure
+
+- Plug strategically
+
+- Test boundaries
+
+- Accept D when structure varies
+
+Do not fully solve unless forced.
+
+You are comparing relationships, not computing values.
+
+**Final Compression Rule**
+
+Across this entire document:
+
+The GRE Quant section is not testing mathematical depth.
+
+It is testing:
+
+- Pattern recognition
+
+- Structural control
+
+- Trap resistance
+
+- Time discipline
+
+If something looks complicated, pause.
+
+The test rarely rewards complexity.
+
+It rewards recognition.
