@@ -242,6 +242,7 @@ D) $4,221$
 E) $4,224$
 
 
+
 **Fast solution path**
 
 A number is divisible by $6$ if and only if:
@@ -267,6 +268,7 @@ When divisibility is mentioned, apply rules first. Division is a last resort.
 **[Go to Divisibility Drills](Drills.md#divisibility-rules)**
 
 ---
+
 
 ### Prime numbers
 
@@ -423,6 +425,7 @@ The GRE expects you to reason symbolically instead of plugging in values blindly
 - Quantitative Comparison questions involving parity
 
 If variables are involved and parity is mentioned, stop thinking numerically.
+
 
 **Canonical example problem**
 
