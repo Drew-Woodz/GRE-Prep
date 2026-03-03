@@ -27,6 +27,114 @@ No solutions are shown immediately. Work the problem before scrolling.
 
     E) 7,234
 
+2. Which of the following integers is divisible by 3?
+
+    A) 5,482
+
+    B) 5,487
+
+    C) 5,491
+
+    D) 5,495
+
+    E) 5,499
+
+3. Which of the following integers is divisible by 6?
+
+    A) 4,512
+
+    B) 4,518
+
+    C) 4,521
+
+    D) 4,525
+
+    E) 4,529
+
+4. Which of the following integers is divisible by 4?
+
+    A) 8,316
+
+    B) 8,318
+
+    C) 8,322
+
+    D) 8,326
+
+    E) 8,329
+
+5. Which of the following integers is divisible by 11?
+
+    A) 6,732
+
+    B) 6,743
+
+    C) 6,754
+
+    D) 6,765
+
+    E) 6,776
+
+6. Which of the following integers is divisible by 8?
+
+    A) 9,416
+
+    B) 9,420
+
+    C) 9,424
+
+    D) 9,428
+
+    E) 9,432
+
+7. Which of the following integers is divisible by 5 but NOT divisible by 10?
+
+    A) 3,540
+
+    B) 3,545
+
+    C) 3,550
+
+    D) 3,555
+
+    E) 3,560
+
+8. Which of the following integers is divisible by both 3 and 4?
+
+    A) 2,736
+
+    B) 2,742
+
+    C) 2,748
+
+    D) 2,754
+
+    E) 2,760
+
+9. Which of the following integers is divisible by 12?
+
+    A) 5,184
+
+    B) 5,190
+
+    C) 5,196
+
+    D) 5,202
+
+    E) 5,208
+
+10. Which of the following integers is divisible by 9 and 5?
+
+    A) 4,365
+
+    B) 4,370
+
+    C) 4,375
+
+    D) 4,380
+
+    E) 4,385
+
 
 ---
 

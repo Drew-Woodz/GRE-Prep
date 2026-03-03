@@ -447,13 +447,15 @@ E) $𝑥^(2) − 𝑦$
 
 Use parity rules:
 
+- $odd + odd = even$
+
 - $odd + even = odd$
 
 - $odd − even = odd$
 
 - $odd × even = even$
 
-- $odd^(2) = odd$
+- $odd^{2} = odd$
 
 Check options:
 
